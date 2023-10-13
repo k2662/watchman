@@ -4,7 +4,7 @@
  <h3>A file watching service.</h3>
 </div>
 
-## Purpose
+### Purpose
 
 Watchman exists to watch files and record when they actually change. It can
 also trigger actions (such as rebuilding assets) when matching files change.
